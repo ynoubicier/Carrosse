@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\winmo\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\winmo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Carrosse.2016042679.00" t="ExcludeRecursive" />
+    <e p="C:\Users\winmo\RiderProjects\Carrosse" t="IncludeFlat">
+      <e p="Carrosse" t="IncludeRecursive">
+        <e p="Animations" t="Include">
+          <e p="Animateur.cs" t="Include" />
+          <e p="Animation.cs" t="Include" />
+          <e p="Balle.cs" t="Include" />
+          <e p="Barney.cs" t="Include" />
+          <e p="Carabine.cs" t="Include" />
+          <e p="Cheveux.cs" t="Include" />
+          <e p="Cible.cs" t="Include" />
+          <e p="EffetBalle.cs" t="Include" />
+          <e p="Kepi.cs" t="Include" />
+          <e p="Lunette.cs" t="Include" />
+          <e p="Spectateur.cs" t="Include" />
+          <e p="Tireur.cs" t="Include" />
+          <e p="Volcan.cs" t="Include" />
+        </e>
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Carrosse.csproj" t="IncludeRecursive" />
+        <e p="Elements" t="Include">
+          <e p="Arbre.cs" t="Include" />
+          <e p="Balle.cs" t="Include" />
+          <e p="Bonhomme.cs" t="Include" />
+          <e p="Carabine.cs" t="Include" />
+          <e p="Chapeau.cs" t="Include" />
+          <e p="Cheveux.cs" t="Include" />
+          <e p="Cible.cs" t="Include" />
+          <e p="Element.cs" t="Include" />
+          <e p="Lunette.cs" t="Include" />
+          <e p="Personnage.cs" t="Include" />
+          <e p="RayonsCentre.cs" t="Include" />
+          <e p="RessourceImage.cs" t="Include" />
+          <e p="Volcan.cs" t="Include" />
+        </e>
+        <e p="Figures" t="Include">
+          <e p="Arc.cs" t="Include" />
+          <e p="Cercle.cs" t="Include" />
+          <e p="Disque.cs" t="Include" />
+          <e p="Ellipse.cs" t="Include" />
+          <e p="Figure.cs" t="Include" />
+          <e p="Ligne.cs" t="Include" />
+          <e p="Rectangle.cs" t="Include" />
+          <e p="Rotation.cs" t="Include" />
+        </e>
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="ressources" t="Include">
+          <e p="images" t="Include">
+            <e p="arbre-1.png" t="Include" />
+            <e p="arbre-2.png" t="Include" />
+            <e p="arbre-3.png" t="Include" />
+            <e p="arbre-4.png" t="Include" />
+            <e p="arbre-5.png" t="Include" />
+            <e p="arbre-6.png" t="Include" />
+            <e p="balle.png" t="Include" />
+            <e p="barney.png" t="Include" />
+            <e p="cheveux.png" t="Include" />
+            <e p="cible2.png" t="Include" />
+            <e p="fond.jpg" t="Include" />
+            <e p="volcan.png" t="Include" />
+          </e>
+          <e p="sons" t="Include">
+            <e p="breath.wav" t="Include" />
+            <e p="mmh.wav" t="Include" />
+            <e p="oh_No.wav" t="Include" />
+            <e p="ouh.wav" t="Include" />
+            <e p="reload.wav" t="Include" />
+            <e p="shot.wav" t="Include" />
+            <e p="sneeze.wav" t="Include" />
+          </e>
+        </e>
+        <e p="Son.cs" t="Include" />
+      </e>
+      <e p="Carrosse.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
